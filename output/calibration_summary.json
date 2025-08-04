@@ -1,0 +1,44 @@
+{
+  "timestamp": "20250804_104138",
+  "camera_intrinsics": {
+    "fx": 387.05308768397106,
+    "fy": 386.86347891160034,
+    "cx": 319.5507437539897,
+    "cy": 242.2300590798742,
+    "camera_matrix": [
+      [
+        387.05308768397106,
+        0.0,
+        319.5507437539897
+      ],
+      [
+        0.0,
+        386.86347891160034,
+        242.2300590798742
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coefficients": [
+      [
+        -0.06978816373992582,
+        0.14863025459433568,
+        0.000455006059412345,
+        -0.00017851251928035792,
+        -0.16114288770023866
+      ]
+    ]
+  },
+  "quality": {
+    "reprojection_error": 0.10822042257865662,
+    "notes": "Lower reprojection error means better calibration"
+  },
+  "usage": {
+    "3d_reconstruction": "Use for converting pixels to 3D coordinates",
+    "measurement": "Use for accurate distance/size measurements",
+    "computer_vision": "Use for any CV application requiring precision"
+  }
+}

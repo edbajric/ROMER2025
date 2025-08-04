@@ -1,0 +1,22 @@
+{
+  "timestamp": "20250731_155649",
+  "camera_id": 4,
+  "resolution": {
+    "width": 640,
+    "height": 480
+  },
+  "fps": 30.0,
+  "estimated_intrinsics": {
+    "fx": 512.0,
+    "fy": 384.0,
+    "cx": 320.0,
+    "cy": 240.0,
+    "note": "These are estimates - need proper calibration"
+  },
+  "camera_properties": {
+    "brightness": 56.0,
+    "contrast": 32.0,
+    "saturation": 128.0,
+    "exposure": 1.0
+  }
+}

@@ -1,7 +1,31 @@
-# Saved media files
+# Saved media files and camera data
 saved_images/*.jpg
+saved_images/*.png
 saved_videos/*.mp4
 saved_videos/*.avi
+calibration_images/*.jpg
+calibration_images2/*.jpg
+calibrated_images/*.jpg
+camera_calibration/*.jpg
+output/*.jpg
+output2/*.jpg
+ir_control_images/*.jpg
+realsense_captures/*.jpg
+realsense_captures/*.png
+r200_captures/*.jpg
+saved_depth/*.png
+saved_rgbd_pairs/
+saved_pointclouds/
+saved_depth_colorized/
+undistorted/
+undistorted2/
+
+# Large calibration and data files
+*.pkl
+*.npy
+*.h5
+*.mat
+corners_*.jpg
 
 # Python cache
 __pycache__/

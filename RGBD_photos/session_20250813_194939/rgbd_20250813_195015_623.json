@@ -1,0 +1,13 @@
+{
+  "timestamp": "20250813_195015_623",
+  "session_dir": "RGBD_photos/session_20250813_194939",
+  "color_image": "color_20250813_195015_623.jpg",
+  "depth_image": "depth_20250813_195015_623.png",
+  "camera_model": "R200_OpenCV",
+  "color_format": "BGR",
+  "depth_format": "8-bit PNG",
+  "depth_units_meters": null,
+  "color_intrinsics": null,
+  "notes": "RGB-D triplet captured with R200_OpenCV",
+  "depth_is_true_z16": false
+}

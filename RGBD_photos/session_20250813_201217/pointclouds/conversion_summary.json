@@ -1,0 +1,15 @@
+{
+  "conversion_timestamp": "20250813_201254",
+  "session_dir": "/home/kovan/3d-cameras/RGBD_photos/session_20250813_201217",
+  "pointclouds_dir": "/home/kovan/3d-cameras/RGBD_photos/session_20250813_201217/pointclouds",
+  "converted_triplets": 1,
+  "total_point_clouds": 1,
+  "total_points": 307200,
+  "average_points_per_cloud": 307200,
+  "calibration_used": {
+    "focal_length_x": 387.05308768397106,
+    "focal_length_y": 386.86347891160034,
+    "principal_point_x": 319.5507437539897,
+    "principal_point_y": 242.2300590798742
+  }
+}

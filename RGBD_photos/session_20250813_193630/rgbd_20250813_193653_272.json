@@ -1,0 +1,10 @@
+{
+  "timestamp": "20250813_193653_272",
+  "session_dir": "RGBD_photos/session_20250813_193630",
+  "color_image": "color_20250813_193653_272.jpg",
+  "depth_image": "depth_20250813_193653_272.png",
+  "camera_model": "R200_OpenCV",
+  "color_format": "BGR",
+  "depth_format": "16-bit PNG",
+  "notes": "RGB-D triplet captured with R200_OpenCV"
+}

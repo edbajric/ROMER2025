@@ -1,0 +1,10 @@
+{
+  "session_timestamp": "20250806_101142",
+  "organized_triplets": 0,
+  "session_path": "RGBD_photos/session_20250806_101142",
+  "files_included": {
+    "color_images": "0 color images",
+    "depth_images": "0 depth images",
+    "metadata_files": "0 JSON files"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "timestamp": "20250807_104435_263",
+  "session_dir": "RGBD_photos/session_20250807_104343",
+  "color_image": "color_20250807_104435_263.jpg",
+  "depth_image": "depth_20250807_104435_263.png",
+  "camera_model": "RealSense_R200_OpenCV",
+  "color_format": "BGR",
+  "depth_format": "8-bit/16-bit PNG",
+  "color_device": 4,
+  "depth_device": 2,
+  "files_saved": [
+    "color",
+    "depth"
+  ],
+  "notes": "RGB-D capture from R200 using OpenCV (devices: color=4, depth=2)"
+}

@@ -1,0 +1,10 @@
+{
+  "timestamp": "20250806_101856_466",
+  "session_dir": "RGBD_photos/session_20250806_101814",
+  "color_image": "color_20250806_101856_466.jpg",
+  "depth_image": "depth_20250806_101856_466.png",
+  "camera_model": "D4xx",
+  "color_format": "BGR",
+  "depth_format": "16-bit PNG",
+  "notes": "RGB-D triplet captured with D4xx"
+}
